@@ -1,0 +1,183 @@
+[submodule "Comment.nvim"]
+	path = Comment.nvim
+	url = git@github.com:obergodmar/Comment.nvim.git
+[submodule "LuaSnip"]
+	path = LuaSnip
+	url = git@github.com:obergodmar/LuaSnip.git
+[submodule "advanced-git-search.nvim"]
+	path = advanced-git-search.nvim
+	url = git@github.com:obergodmar/advanced-git-search.nvim.git
+[submodule "bufferline.nvim"]
+	path = bufferline.nvim
+	url = git@github.com:obergodmar/bufferline.nvim.git
+[submodule "cmp-buffer"]
+	path = cmp-buffer
+	url = git@github.com:obergodmar/cmp-buffer.git
+[submodule "cmp-nvim-lsp"]
+	path = cmp-nvim-lsp
+	url = git@github.com:obergodmar/cmp-nvim-lsp.git
+[submodule "cmp-path"]
+	path = cmp-path
+	url = git@github.com:obergodmar/cmp-path.git
+[submodule "cmp_luasnip"]
+	path = cmp_luasnip
+	url = git@github.com:obergodmar/cmp_luasnip.git
+[submodule "dressing.nvim"]
+	path = dressing.nvim
+	url = git@github.com:obergodmar/dressing.nvim.git
+[submodule "fern-git-status.vim"]
+	path = fern-git-status.vim
+	url = git@github.com:obergodmar/fern-git-status.vim.git
+[submodule "fern-hijack.vim"]
+	path = fern-hijack.vim
+	url = git@github.com:obergodmar/fern-hijack.vim.git
+[submodule "fern-renderer-nerdfont.vim"]
+	path = fern-renderer-nerdfont.vim
+	url = git@github.com:obergodmar/fern-renderer-nerdfont.vim.git
+[submodule "fern.vim"]
+	path = fern.vim
+	url = git@github.com:obergodmar/fern.vim.git
+[submodule "fidget.nvim"]
+	path = fidget.nvim
+	url = git@github.com:obergodmar/fidget.nvim.git
+[submodule "formatter.nvim"]
+	path = formatter.nvim
+	url = git@github.com:obergodmar/formatter.nvim.git
+[submodule "friendly-snippets"]
+	path = friendly-snippets
+	url = git@github.com:obergodmar/friendly-snippets.git
+[submodule "git-messenger.vim"]
+	path = git-messenger.vim
+	url = git@github.com:obergodmar/git-messenger.vim.git
+[submodule "gitsigns.nvim"]
+	path = gitsigns.nvim
+	url = git@github.com:obergodmar/gitsigns.nvim.git
+[submodule "glyph-palette.vim"]
+	path = glyph-palette.vim
+	url = git@github.com:obergodmar/glyph-palette.vim.git
+[submodule "indent-blankline.nvim"]
+	path = indent-blankline.nvim
+	url = git@github.com:obergodmar/indent-blankline.nvim.git
+[submodule "kanagawa.nvim"]
+	path = kanagawa.nvim
+	url = git@github.com:obergodmar/kanagawa.nvim.git
+[submodule "lazy.nvim"]
+	path = lazy.nvim
+	url = git@github.com:obergodmar/lazy.nvim.git
+[submodule "lsp-timeout.nvim"]
+	path = lsp-timeout.nvim
+	url = git@github.com:obergodmar/lsp-timeout.nvim.git
+[submodule "lspkind.nvim"]
+	path = lspkind.nvim
+	url = git@github.com:obergodmar/lspkind.nvim.git
+[submodule "lspsaga.nvim"]
+	path = lspsaga.nvim
+	url = git@github.com:obergodmar/lspsaga.nvim.git
+[submodule "lualine.nvim"]
+	path = lualine.nvim
+	url = git@github.com:obergodmar/lualine.nvim.git
+[submodule "mason-lspconfig.nvim"]
+	path = mason-lspconfig.nvim
+	url = git@github.com:obergodmar/mason-lspconfig.nvim.git
+[submodule "mason.nvim"]
+	path = mason.nvim
+	url = git@github.com:obergodmar/mason.nvim.git
+[submodule "neodev.nvim"]
+	path = neodev.nvim
+	url = git@github.com:obergodmar/neodev.nvim.git
+[submodule "neoscroll.nvim"]
+	path = neoscroll.nvim
+	url = git@github.com:obergodmar/neoscroll.nvim.git
+[submodule "nerdfont.vim"]
+	path = nerdfont.vim
+	url = git@github.com:obergodmar/nerdfont.vim.git
+[submodule "noice.nvim"]
+	path = noice.nvim
+	url = git@github.com:obergodmar/noice.nvim.git
+[submodule "nui.nvim"]
+	path = nui.nvim
+	url = git@github.com:obergodmar/nui.nvim.git
+[submodule "nvim-autopairs"]
+	path = nvim-autopairs
+	url = git@github.com:obergodmar/nvim-autopairs.git
+[submodule "nvim-cmp"]
+	path = nvim-cmp
+	url = git@github.com:obergodmar/nvim-cmp.git
+[submodule "nvim-colorizer.lua"]
+	path = nvim-colorizer.lua
+	url = git@github.com:obergodmar/nvim-colorizer.lua.git
+[submodule "nvim-config-local"]
+	path = nvim-config-local
+	url = git@github.com:obergodmar/nvim-config-local.git
+[submodule "nvim-lint"]
+	path = nvim-lint
+	url = git@github.com:obergodmar/nvim-lint.git
+[submodule "nvim-lspconfig"]
+	path = nvim-lspconfig
+	url = git@github.com:obergodmar/nvim-lspconfig.git
+[submodule "nvim-notify"]
+	path = nvim-notify
+	url = git@github.com:obergodmar/nvim-notify.git
+[submodule "nvim-spectre"]
+	path = nvim-spectre
+	url = git@github.com:obergodmar/nvim-spectre.git
+[submodule "nvim-treesitter"]
+	path = nvim-treesitter
+	url = git@github.com:obergodmar/nvim-treesitter.git
+[submodule "nvim-treesitter-textobjects"]
+	path = nvim-treesitter-textobjects
+	url = git@github.com:obergodmar/nvim-treesitter-textobjects.git
+[submodule "nvim-ufo"]
+	path = nvim-ufo
+	url = git@github.com:obergodmar/nvim-ufo.git
+[submodule "nvim-web-devicons"]
+	path = nvim-web-devicons
+	url = git@github.com:obergodmar/nvim-web-devicons.git
+[submodule "plenary.nvim"]
+	path = plenary.nvim
+	url = git@github.com:obergodmar/plenary.nvim.git
+[submodule "promise-async"]
+	path = promise-async
+	url = git@github.com:obergodmar/promise-async.git
+[submodule "resession.nvim"]
+	path = resession.nvim
+	url = git@github.com:obergodmar/resession.nvim.git
+[submodule "statuscol.nvim"]
+	path = statuscol.nvim
+	url = git@github.com:obergodmar/statuscol.nvim.git
+[submodule "telescope-fzf-native.nvim"]
+	path = telescope-fzf-native.nvim
+	url = git@github.com:obergodmar/telescope-fzf-native.nvim.git
+[submodule "telescope-live-grep-args.nvim"]
+	path = telescope-live-grep-args.nvim
+	url = git@github.com:obergodmar/telescope-live-grep-args.nvim.git
+[submodule "telescope.nvim"]
+	path = telescope.nvim
+	url = git@github.com:obergodmar/telescope.nvim.git
+[submodule "todo-comments.nvim"]
+	path = todo-comments.nvim
+	url = git@github.com:obergodmar/todo-comments.nvim.git
+[submodule "toggleterm.nvim"]
+	path = toggleterm.nvim
+	url = git@github.com:obergodmar/toggleterm.nvim.git
+[submodule "transparent.nvim"]
+	path = transparent.nvim
+	url = git@github.com:obergodmar/transparent.nvim.git
+[submodule "trouble.nvim"]
+	path = trouble.nvim
+	url = git@github.com:obergodmar/trouble.nvim.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git@github.com:obergodmar/vim-fugitive.git
+[submodule "vim-sandwich"]
+	path = vim-sandwich
+	url = git@github.com:obergodmar/vim-sandwich.git
+[submodule "vim-sleuth"]
+	path = vim-sleuth
+	url = git@github.com:obergodmar/vim-sleuth.git
+[submodule "which-key.nvim"]
+	path = which-key.nvim
+	url = git@github.com:obergodmar/which-key.nvim.git
+[submodule "yanklines.nvim"]
+	path = yanklines.nvim
+	url = git@github.com:obergodmar/yanklines.nvim.git
