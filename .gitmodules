@@ -181,3 +181,6 @@
 [submodule "yanklines.nvim"]
 	path = yanklines.nvim
 	url = git@github.com:obergodmar/yanklines.nvim.git
+[submodule "fzf-lua"]
+	path = fzf-lua
+	url = git@github.com:obergodmar/fzf-lua.git
