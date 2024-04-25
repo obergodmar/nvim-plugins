@@ -106,9 +106,6 @@
 [submodule "promise-async"]
 	path = promise-async
 	url = git@github.com:obergodmar/promise-async.git
-[submodule "resession.nvim"]
-	path = resession.nvim
-	url = git@github.com:obergodmar/resession.nvim.git
 [submodule "statuscol.nvim"]
 	path = statuscol.nvim
 	url = git@github.com:obergodmar/statuscol.nvim.git
