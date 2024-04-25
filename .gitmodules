@@ -184,3 +184,6 @@
 [submodule "fzf-lua"]
 	path = fzf-lua
 	url = git@github.com:obergodmar/fzf-lua.git
+[submodule "nvim-tree.lua"]
+	path = nvim-tree.lua
+	url = git@github.com:obergodmar/nvim-tree.lua.git
