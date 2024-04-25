@@ -22,21 +22,6 @@
 [submodule "cmp_luasnip"]
 	path = cmp_luasnip
 	url = git@github.com:obergodmar/cmp_luasnip.git
-[submodule "dressing.nvim"]
-	path = dressing.nvim
-	url = git@github.com:obergodmar/dressing.nvim.git
-[submodule "fern-git-status.vim"]
-	path = fern-git-status.vim
-	url = git@github.com:obergodmar/fern-git-status.vim.git
-[submodule "fern-hijack.vim"]
-	path = fern-hijack.vim
-	url = git@github.com:obergodmar/fern-hijack.vim.git
-[submodule "fern-renderer-nerdfont.vim"]
-	path = fern-renderer-nerdfont.vim
-	url = git@github.com:obergodmar/fern-renderer-nerdfont.vim.git
-[submodule "fern.vim"]
-	path = fern.vim
-	url = git@github.com:obergodmar/fern.vim.git
 [submodule "fidget.nvim"]
 	path = fidget.nvim
 	url = git@github.com:obergodmar/fidget.nvim.git
@@ -52,12 +37,6 @@
 [submodule "gitsigns.nvim"]
 	path = gitsigns.nvim
 	url = git@github.com:obergodmar/gitsigns.nvim.git
-[submodule "glyph-palette.vim"]
-	path = glyph-palette.vim
-	url = git@github.com:obergodmar/glyph-palette.vim.git
-[submodule "indent-blankline.nvim"]
-	path = indent-blankline.nvim
-	url = git@github.com:obergodmar/indent-blankline.nvim.git
 [submodule "kanagawa.nvim"]
 	path = kanagawa.nvim
 	url = git@github.com:obergodmar/kanagawa.nvim.git
@@ -85,18 +64,9 @@
 [submodule "neodev.nvim"]
 	path = neodev.nvim
 	url = git@github.com:obergodmar/neodev.nvim.git
-[submodule "neoscroll.nvim"]
-	path = neoscroll.nvim
-	url = git@github.com:obergodmar/neoscroll.nvim.git
 [submodule "nerdfont.vim"]
 	path = nerdfont.vim
 	url = git@github.com:obergodmar/nerdfont.vim.git
-[submodule "noice.nvim"]
-	path = noice.nvim
-	url = git@github.com:obergodmar/noice.nvim.git
-[submodule "nui.nvim"]
-	path = nui.nvim
-	url = git@github.com:obergodmar/nui.nvim.git
 [submodule "nvim-autopairs"]
 	path = nvim-autopairs
 	url = git@github.com:obergodmar/nvim-autopairs.git
@@ -115,9 +85,6 @@
 [submodule "nvim-lspconfig"]
 	path = nvim-lspconfig
 	url = git@github.com:obergodmar/nvim-lspconfig.git
-[submodule "nvim-notify"]
-	path = nvim-notify
-	url = git@github.com:obergodmar/nvim-notify.git
 [submodule "nvim-spectre"]
 	path = nvim-spectre
 	url = git@github.com:obergodmar/nvim-spectre.git
@@ -145,27 +112,12 @@
 [submodule "statuscol.nvim"]
 	path = statuscol.nvim
 	url = git@github.com:obergodmar/statuscol.nvim.git
-[submodule "telescope-fzf-native.nvim"]
-	path = telescope-fzf-native.nvim
-	url = git@github.com:obergodmar/telescope-fzf-native.nvim.git
-[submodule "telescope-live-grep-args.nvim"]
-	path = telescope-live-grep-args.nvim
-	url = git@github.com:obergodmar/telescope-live-grep-args.nvim.git
-[submodule "telescope.nvim"]
-	path = telescope.nvim
-	url = git@github.com:obergodmar/telescope.nvim.git
-[submodule "todo-comments.nvim"]
-	path = todo-comments.nvim
-	url = git@github.com:obergodmar/todo-comments.nvim.git
 [submodule "toggleterm.nvim"]
 	path = toggleterm.nvim
 	url = git@github.com:obergodmar/toggleterm.nvim.git
 [submodule "transparent.nvim"]
 	path = transparent.nvim
 	url = git@github.com:obergodmar/transparent.nvim.git
-[submodule "trouble.nvim"]
-	path = trouble.nvim
-	url = git@github.com:obergodmar/trouble.nvim.git
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = git@github.com:obergodmar/vim-fugitive.git
@@ -187,3 +139,6 @@
 [submodule "nvim-tree.lua"]
 	path = nvim-tree.lua
 	url = git@github.com:obergodmar/nvim-tree.lua.git
+[submodule "lsp_signature.nvim"]
+	path = lsp_signature.nvim
+	url = git@github.com:obergodmar/lsp_signature.nvim.git
