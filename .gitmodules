@@ -139,3 +139,6 @@
 [submodule "lsp_signature.nvim"]
 	path = lsp_signature.nvim
 	url = git@github.com:obergodmar/lsp_signature.nvim.git
+[submodule "markdown-preview.nvim"]
+	path = markdown-preview.nvim
+	url = git@github.com:obergodmar/markdown-preview.nvim.git
