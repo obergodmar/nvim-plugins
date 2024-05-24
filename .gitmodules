@@ -142,3 +142,6 @@
 [submodule "markdown-preview.nvim"]
 	path = markdown-preview.nvim
 	url = git@github.com:obergodmar/markdown-preview.nvim.git
+[submodule "langmapper.nvim"]
+	path = langmapper.nvim
+	url = git@github.com:obergodmar/langmapper.nvim.git
