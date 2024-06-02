@@ -145,3 +145,6 @@
 [submodule "langmapper.nvim"]
 	path = langmapper.nvim
 	url = git@github.com:obergodmar/langmapper.nvim.git
+[submodule "cmp-cmdline"]
+	path = cmp-cmdline
+	url = git@github.com:obergodmar/cmp-cmdline.git
