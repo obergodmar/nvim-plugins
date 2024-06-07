@@ -148,3 +148,6 @@
 [submodule "cmp-cmdline"]
 	path = cmp-cmdline
 	url = git@github.com:obergodmar/cmp-cmdline.git
+[submodule "diffview.nvim"]
+	path = diffview.nvim
+	url = git@github.com:obergodmar/diffview.nvim.git
