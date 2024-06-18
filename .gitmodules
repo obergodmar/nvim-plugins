@@ -151,3 +151,6 @@
 [submodule "diffview.nvim"]
 	path = diffview.nvim
 	url = git@github.com:obergodmar/diffview.nvim.git
+[submodule "nvim-treesitter-context"]
+	path = nvim-treesitter-context
+	url = git@github.com:obergodmar/nvim-treesitter-context.git
