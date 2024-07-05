@@ -1,0 +1,247 @@
+{
+  "Comment.nvim": {
+    "base": "git@github.com:obergodmar/Comment.nvim.git",
+    "upstream": "https://github.com:numToStr/Comment.nvim.git",
+    "upstream_branch": "master"
+  },
+  "LuaSnip": {
+    "base": "git@github.com:obergodmar/LuaSnip.git",
+    "upstream": "https://github.com:L3MON4D3/LuaSnip.git",
+    "upstream_branch": "master"
+  },
+  "bufferline.nvim": {
+    "base": "git@github.com:obergodmar/bufferline.nvim.git",
+    "upstream": "https://github.com:akinsho/bufferline.nvim.git",
+    "upstream_branch": "main"
+  },
+  "cmp-buffer": {
+    "base": "git@github.com:obergodmar/cmp-buffer.git",
+    "upstream": "https://github.com:hrsh7th/cmp-buffer.git",
+    "upstream_branch": "main"
+  },
+  "cmp-cmdline": {
+    "base": "git@github.com:obergodmar/cmp-cmdline.git",
+    "upstream": "https://github.com:hrsh7th/cmp-cmdline.git",
+    "upstream_branch": "main"
+  },
+  "cmp-nvim-lsp": {
+    "base": "git@github.com:obergodmar/cmp-nvim-lsp.git",
+    "upstream": "https://github.com:hrsh7th/cmp-nvim-lsp.git",
+    "upstream_branch": "main"
+  },
+  "cmp-path": {
+    "base": "git@github.com:obergodmar/cmp-path.git",
+    "upstream": "https://github.com:hrsh7th/cmp-path.git",
+    "upstream_branch": "main"
+  },
+  "cmp_luasnip": {
+    "base": "git@github.com:obergodmar/cmp_luasnip.git",
+    "upstream": "https://github.com:saadparwaiz1/cmp_luasnip.git",
+    "upstream_branch": "master"
+  },
+  "diffview.nvim": {
+    "base": "git@github.com:obergodmar/diffview.nvim.git",
+    "upstream": "https://github.com/sindrets/diffview.nvim.git",
+    "upstream_branch": "main"
+  },
+  "fidget.nvim": {
+    "base": "git@github.com:obergodmar/fidget.nvim.git",
+    "upstream": "https://github.com:j-hui/fidget.nvim.git",
+    "upstream_branch": "main"
+  },
+  "formatter.nvim": {
+    "base": "git@github.com:obergodmar/formatter.nvim.git",
+    "upstream": "https://github.com:mhartington/formatter.nvim.git",
+    "upstream_branch": "master"
+  },
+  "friendly-snippets": {
+    "base": "git@github.com:obergodmar/friendly-snippets.git",
+    "upstream": "https://github.com:rafamadriz/friendly-snippets.git",
+    "upstream_branch": "main"
+  },
+  "fzf-lua": {
+    "base": "git@github.com:obergodmar/fzf-lua.git",
+    "upstream": "https://github.com:ibhagwan/fzf-lua.git",
+    "upstream_branch": "main"
+  },
+  "git-messenger.vim": {
+    "base": "git@github.com:obergodmar/git-messenger.vim.git",
+    "upstream": "https://github.com:rhysd/git-messenger.vim.git",
+    "upstream_branch": "master"
+  },
+  "gitsigns.nvim": {
+    "base": "git@github.com:obergodmar/gitsigns.nvim.git",
+    "upstream": "https://github.com:lewis6991/gitsigns.nvim.git",
+    "upstream_branch": "main"
+  },
+  "kanagawa.nvim": {
+    "base": "git@github.com:obergodmar/kanagawa.nvim.git",
+    "upstream": "https://github.com:rebelot/kanagawa.nvim.git",
+    "upstream_branch": "master"
+  },
+  "lazy.nvim": {
+    "base": "git@github.com:obergodmar/lazy.nvim.git",
+    "upstream": "https://github.com:folke/lazy.nvim.git",
+    "upstream_branch": "main"
+  },
+  "lsp-timeout.nvim": {
+    "base": "git@github.com:obergodmar/lsp-timeout.nvim.git",
+    "upstream": "https://github.com:hinell/lsp-timeout.nvim.git",
+    "upstream_branch": "main"
+  },
+  "lspkind.nvim": {
+    "base": "git@github.com:obergodmar/lspkind.nvim.git",
+    "upstream": "https://github.com:onsails/lspkind.nvim.git",
+    "upstream_branch": "master"
+  },
+  "lspsaga.nvim": {
+    "base": "git@github.com:obergodmar/lspsaga.nvim.git",
+    "upstream": "https://github.com:nvimdev/lspsaga.nvim.git",
+    "upstream_branch": "main"
+  },
+  "lualine.nvim": {
+    "base": "git@github.com:obergodmar/lualine.nvim.git",
+    "upstream": "https://github.com:nvim-lualine/lualine.nvim.git",
+    "upstream_branch": "master"
+  },
+  "markdown-preview.nvim": {
+    "base": "git@github.com:obergodmar/markdown-preview.nvim.git",
+    "upstream": "https://github.com:iamcco/markdown-preview.nvim.git",
+    "upstream_branch": "master"
+  },
+  "mason-lspconfig.nvim": {
+    "base": "git@github.com:obergodmar/mason-lspconfig.nvim.git",
+    "upstream": "https://github.com:williamboman/mason-lspconfig.nvim.git",
+    "upstream_branch": "main"
+  },
+  "mason.nvim": {
+    "base": "git@github.com:obergodmar/mason.nvim.git",
+    "upstream": "https://github.com:williamboman/mason.nvim.git",
+    "upstream_branch": "main"
+  },
+  "neodev.nvim": {
+    "base": "git@github.com:obergodmar/neodev.nvim.git",
+    "upstream": "https://github.com:folke/neodev.nvim.git",
+    "upstream_branch": "main"
+  },
+  "nerdfont.vim": {
+    "base": "git@github.com:obergodmar/nerdfont.vim.git",
+    "upstream": "https://github.com:lambdalisue/vim-nerdfont.git",
+    "upstream_branch": "master"
+  },
+  "nvim-autopairs": {
+    "base": "git@github.com:obergodmar/nvim-autopairs.git",
+    "upstream": "https://github.com:windwp/nvim-autopairs.git",
+    "upstream_branch": "master"
+  },
+  "nvim-cmp": {
+    "base": "git@github.com:obergodmar/nvim-cmp.git",
+    "upstream": "https://github.com:hrsh7th/nvim-cmp.git",
+    "upstream_branch": "main"
+  },
+  "nvim-colorizer.lua": {
+    "base": "git@github.com:obergodmar/nvim-colorizer.lua.git",
+    "upstream": "https://github.com:norcalli/nvim-colorizer.lua.git",
+    "upstream_branch": "master"
+  },
+  "nvim-config-local": {
+    "base": "git@github.com:obergodmar/nvim-config-local.git",
+    "upstream": "https://github.com:klen/nvim-config-local.git",
+    "upstream_branch": "main"
+  },
+  "nvim-lint": {
+    "base": "git@github.com:obergodmar/nvim-lint.git",
+    "upstream": "https://github.com:mfussenegger/nvim-lint.git",
+    "upstream_branch": "master"
+  },
+  "nvim-lspconfig": {
+    "base": "git@github.com:obergodmar/nvim-lspconfig.git",
+    "upstream": "https://github.com:neovim/nvim-lspconfig.git",
+    "upstream_branch": "master"
+  },
+  "nvim-spectre": {
+    "base": "git@github.com:obergodmar/nvim-spectre.git",
+    "upstream": "https://github.com:nvim-pack/nvim-spectre.git",
+    "upstream_branch": "master"
+  },
+  "nvim-tree.lua": {
+    "base": "git@github.com:obergodmar/nvim-tree.lua.git",
+    "upstream": "https://github.com:nvim-tree/nvim-tree.lua.git",
+    "upstream_branch": "master"
+  },
+  "nvim-treesitter": {
+    "base": "git@github.com:obergodmar/nvim-treesitter.git",
+    "upstream": "https://github.com:nvim-treesitter/nvim-treesitter.git",
+    "upstream_branch": "master"
+  },
+  "nvim-treesitter-context": {
+    "base": "git@github.com:obergodmar/nvim-treesitter-context.git",
+    "upstream": "https://github.com:nvim-treesitter/nvim-treesitter-context.git",
+    "upstream_branch": "master"
+  },
+  "nvim-treesitter-textobjects": {
+    "base": "git@github.com:obergodmar/nvim-treesitter-textobjects.git",
+    "upstream": "https://github.com:nvim-treesitter/nvim-treesitter-textobjects.git",
+    "upstream_branch": "master"
+  },
+  "nvim-ufo": {
+    "base": "git@github.com:obergodmar/nvim-ufo.git",
+    "upstream": "https://github.com:kevinhwang91/nvim-ufo.git",
+    "upstream_branch": "main"
+  },
+  "nvim-web-devicons": {
+    "base": "git@github.com:obergodmar/nvim-web-devicons.git",
+    "upstream": "https://github.com:nvim-tree/nvim-web-devicons.git",
+    "upstream_branch": "master"
+  },
+  "plenary.nvim": {
+    "base": "git@github.com:obergodmar/plenary.nvim.git",
+    "upstream": "https://github.com:nvim-lua/plenary.nvim.git",
+    "upstream_branch": "master"
+  },
+  "promise-async": {
+    "base": "git@github.com:obergodmar/promise-async.git",
+    "upstream": "https://github.com:kevinhwang91/promise-async.git",
+    "upstream_branch": "main"
+  },
+  "statuscol.nvim": {
+    "base": "git@github.com:obergodmar/statuscol.nvim.git",
+    "upstream": "https://github.com:luukvbaal/statuscol.nvim.git",
+    "upstream_branch": "main"
+  },
+  "toggleterm.nvim": {
+    "base": "git@github.com:obergodmar/toggleterm.nvim.git",
+    "upstream": "https://github.com:akinsho/toggleterm.nvim.git",
+    "upstream_branch": "main"
+  },
+  "transparent.nvim": {
+    "base": "git@github.com:obergodmar/transparent.nvim.git",
+    "upstream": "https://github.com:xiyaowong/transparent.nvim.git",
+    "upstream_branch": "main"
+  },
+  "vim-fugitive": {
+    "base": "git@github.com:obergodmar/vim-fugitive.git",
+    "upstream": "https://github.com:tpope/vim-fugitive.git",
+    "upstream_branch": "master"
+  },
+  "vim-sandwich": {
+    "base": "git@github.com:obergodmar/vim-sandwich.git",
+    "upstream": "https://github.com:machakann/vim-sandwich.git",
+    "upstream_branch": "master"
+  },
+  "vim-sleuth": {
+    "base": "git@github.com:obergodmar/vim-sleuth.git",
+    "upstream": "https://github.com:tpope/vim-sleuth.git",
+    "upstream_branch": "master"
+  },
+  "which-key.nvim": {
+    "base": "git@github.com:obergodmar/which-key.nvim.git",
+    "upstream": "https://github.com:folke/which-key.nvim.git",
+    "upstream_branch": "main"
+  },
+  "yanklines.nvim": {
+    "base": "git@github.com:obergodmar/yanklines.nvim.git",
+    "upstream": "https://github.com:obergodmar/yanklines.nvim.git",
+    "upstream_branch": "master"
+  }
+}
