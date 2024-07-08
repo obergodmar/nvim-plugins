@@ -154,3 +154,6 @@
 [submodule "nvim-treesitter-context"]
 	path = nvim-treesitter-context
 	url = git@github.com:obergodmar/nvim-treesitter-context.git
+[submodule ".repo-sync"]
+	path = .repo-sync
+	url = git@github.com:obergodmar/repo-sync.git
