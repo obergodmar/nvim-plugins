@@ -157,3 +157,6 @@
 [submodule ".repo-sync"]
 	path = .repo-sync
 	url = git@github.com:obergodmar/repo-sync.git
+[submodule "indentmini.nvim"]
+	path = indentmini.nvim
+	url = git@github.com:obergodmar/indentmini.nvim.git
