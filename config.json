@@ -248,5 +248,15 @@
     "base": "git@github.com:obergodmar/indentmini.nvim.git",
     "upsteream": "https://github.com/nvimdev/indentmini.nvim.git",
     "upstream_branch": "main"
+  },
+  "lazydev.nvim": {
+    "base": "git@github.com:obergodmar/lazydev.nvim.git",
+    "upsteream": "https://github.com/folke/lazydev.nvim.git",
+    "upstream_branch": "main"
+  },
+  "markview.nvim": {
+    "base": "git@github.com:obergodmar/markview.nvim.git",
+    "upsteream": "https://github.com/OXY2DEV/markview.nvim.git",
+    "upstream_branch": "main"
   }
 }

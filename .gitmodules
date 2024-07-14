@@ -160,3 +160,9 @@
 [submodule "indentmini.nvim"]
 	path = indentmini.nvim
 	url = git@github.com:obergodmar/indentmini.nvim.git
+[submodule "lazydev.nvim"]
+	path = lazydev.nvim
+	url = git@github.com:obergodmar/lazydev.nvim.git
+[submodule "markview.nvim"]
+	path = markview.nvim
+	url = git@github.com:obergodmar/markview.nvim.git
