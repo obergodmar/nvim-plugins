@@ -244,11 +244,6 @@
     "upstream": "https://github.com/obergodmar/yanklines.nvim.git",
     "upstream_branch": "master"
   },
-  "indentmini.nvim": {
-    "base": "git@github.com:obergodmar/indentmini.nvim.git",
-    "upstream": "https://github.com/nvimdev/indentmini.nvim.git",
-    "upstream_branch": "main"
-  },
   "lazydev.nvim": {
     "base": "git@github.com:obergodmar/lazydev.nvim.git",
     "upstream": "https://github.com/folke/lazydev.nvim.git",
@@ -257,6 +252,21 @@
   "markview.nvim": {
     "base": "git@github.com:obergodmar/markview.nvim.git",
     "upstream": "https://github.com/OXY2DEV/markview.nvim.git",
+    "upstream_branch": "main"
+  },
+  "treesitter-indent-object.nvim": {
+    "base": "git@github.com:obergodmar/treesitter-indent-object.nvim.git",
+    "upstream": "https://github.com/kiyoon/treesitter-indent-object.nvim.git",
+    "upstream_branch": "master"
+  },
+  "typescript-tools.nvim": {
+    "base": "git@github.com:obergodmar/typescript-tools.nvim.git",
+    "upstream": "https://github.com/pmizio/typescript-tools.nvim.git",
+    "upstream_branch": "master"
+  },
+  "hover.nvim": {
+    "base": "git@github.com:obergodmar/hover.nvim.git",
+    "upstream": "https://github.com/lewis6991/hover.nvim.git",
     "upstream_branch": "main"
   }
 }

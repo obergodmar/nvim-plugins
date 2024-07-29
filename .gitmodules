@@ -157,12 +157,18 @@
 [submodule ".repo-sync"]
 	path = .repo-sync
 	url = git@github.com:obergodmar/repo-sync.git
-[submodule "indentmini.nvim"]
-	path = indentmini.nvim
-	url = git@github.com:obergodmar/indentmini.nvim.git
 [submodule "lazydev.nvim"]
 	path = lazydev.nvim
 	url = git@github.com:obergodmar/lazydev.nvim.git
 [submodule "markview.nvim"]
 	path = markview.nvim
 	url = git@github.com:obergodmar/markview.nvim.git
+[submodule "treesitter-indent-object.nvim"]
+	path = treesitter-indent-object.nvim
+	url = git@github.com:obergodmar/treesitter-indent-object.nvim.git
+[submodule "typescript-tools.nvim"]
+	path = typescript-tools.nvim
+	url = git@github.com:obergodmar/typescript-tools.nvim.git
+[submodule "hover.nvim"]
+	path = hover.nvim
+	url = git@github.com:obergodmar/hover.nvim.git
