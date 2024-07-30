@@ -172,3 +172,6 @@
 [submodule "hover.nvim"]
 	path = hover.nvim
 	url = git@github.com:obergodmar/hover.nvim.git
+[submodule "nvim-treesitter-refactor"]
+	path = nvim-treesitter-refactor
+	url = git@github.com:obergodmar/nvim-treesitter-refactor.git

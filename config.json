@@ -268,5 +268,10 @@
     "base": "git@github.com:obergodmar/hover.nvim.git",
     "upstream": "https://github.com/lewis6991/hover.nvim.git",
     "upstream_branch": "main"
+  },
+  "nvim-treesitter-refactor": {
+    "base": "git@github.com:obergodmar/nvim-treesitter-refactor.git",
+    "upstream": "https://github.com/nvim-treesitter/nvim-treesitter-refactor.git",
+    "upstream_branch": "master"
   }
 }
