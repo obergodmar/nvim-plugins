@@ -175,3 +175,6 @@
 [submodule "nvim-treesitter-refactor"]
 	path = nvim-treesitter-refactor
 	url = git@github.com:obergodmar/nvim-treesitter-refactor.git
+[submodule "aerial.nvim"]
+	path = aerial.nvim
+	url = git@github.com:obergodmar/aerial.nvim.git

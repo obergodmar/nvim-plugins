@@ -273,5 +273,10 @@
     "base": "git@github.com:obergodmar/nvim-treesitter-refactor.git",
     "upstream": "https://github.com/nvim-treesitter/nvim-treesitter-refactor.git",
     "upstream_branch": "master"
+  },
+  "aerial.nvim": {
+    "base": "git@github.com:obergodmar/aerial.nvim.git",
+    "upstream": "https://github.com/stevearc/aerial.nvim.git",
+    "upstream_branch": "master"
   }
 }
