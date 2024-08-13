@@ -178,3 +178,6 @@
 [submodule "aerial.nvim"]
 	path = aerial.nvim
 	url = git@github.com:obergodmar/aerial.nvim.git
+[submodule "satellite.nvim"]
+	path = satellite.nvim
+	url = git@github.com:obergodmar/satellite.nvim.git

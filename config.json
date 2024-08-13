@@ -278,5 +278,10 @@
     "base": "git@github.com:obergodmar/aerial.nvim.git",
     "upstream": "https://github.com/stevearc/aerial.nvim.git",
     "upstream_branch": "master"
+  },
+  "satellite.nvim": {
+    "base": "git@github.com:obergodmar/satellite.nvim.git",
+    "upstream": "https://github.com/lewis6991/satellite.nvim.git",
+    "upstream_branch": "main"
   }
 }
