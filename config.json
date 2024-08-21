@@ -283,5 +283,10 @@
     "base": "git@github.com:obergodmar/satellite.nvim.git",
     "upstream": "https://github.com/lewis6991/satellite.nvim.git",
     "upstream_branch": "main"
+  },
+  "multiple-cursors.nvim": {
+    "base": "git@github.com:obergodmar/multiple-cursors.nvim.git",
+    "upstream": "https://github.com/brenton-leighton/multiple-cursors.nvim.git",
+    "upstream_branch": "main"
   }
 }

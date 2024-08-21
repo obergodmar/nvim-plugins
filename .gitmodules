@@ -181,3 +181,6 @@
 [submodule "satellite.nvim"]
 	path = satellite.nvim
 	url = git@github.com:obergodmar/satellite.nvim.git
+[submodule "multiple-cursors.nvim"]
+	path = multiple-cursors.nvim
+	url = git@github.com:brenton-leighton/multiple-cursors.nvim.git
