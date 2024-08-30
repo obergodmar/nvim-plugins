@@ -184,3 +184,6 @@
 [submodule "multiple-cursors.nvim"]
 	path = multiple-cursors.nvim
 	url = git@github.com:brenton-leighton/multiple-cursors.nvim.git
+[submodule "git-conflict.nvim"]
+	path = git-conflict.nvim
+	url = git@github.com:obergodmar/git-conflict.nvim.git
