@@ -288,10 +288,5 @@
     "base": "git@github.com:obergodmar/multiple-cursors.nvim.git",
     "upstream": "https://github.com/brenton-leighton/multiple-cursors.nvim.git",
     "upstream_branch": "main"
-  },
-  "git-conflict.nvim": {
-    "base": "git@github.com:obergodmar/git-conflict.nvim.git",
-    "upstream": "https://github.com/akinsho/git-conflict.nvim.git",
-    "upstream_branch": "main"
   }
 }
