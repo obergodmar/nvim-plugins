@@ -288,5 +288,10 @@
     "base": "git@github.com:obergodmar/multiple-cursors.nvim.git",
     "upstream": "https://github.com/brenton-leighton/multiple-cursors.nvim.git",
     "upstream_branch": "main"
+  },
+  "gp.nvim": {
+    "base": "git@github.com:obergodmar/gp.nvim.git",
+    "upstream": "https://github.com/Robitx/gp.nvim.git",
+    "upstream_branch": "main"
   }
 }
